@@ -1,0 +1,6 @@
+This is a script like crontab, we use it to manage those timing tasks.
+we have to move all the folder dans root /etc.
+
+version: 1.0
+author: Wang Taojun 
+author: Ding Liang
